@@ -1,8 +1,7 @@
 \contentsline {section}{\numberline {1}Predgovor}{3}{}%
-\contentsline {section}{\numberline {2}TTL, ECL i CMOS}{4}{}%
-\contentsline {section}{\numberline {3}Multivibratori i timer555}{7}{}%
-\contentsline {subsection}{\numberline {3.1}Multivibratori}{7}{}%
-\contentsline {subsection}{\numberline {3.2}timer555}{8}{}%
-\contentsline {section}{\numberline {4}Kombinaciona, sekvencijalna i aritmetička kola}{9}{}%
-\contentsline {section}{\numberline {5}Memorije}{10}{}%
-\contentsline {section}{\numberline {6}Moderni procesor}{11}{}%
+\contentsline {section}{\numberline {2}Oscilatori}{4}{}%
+\contentsline {section}{\numberline {3}Multivibratori i timer555}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Multivibratori}{5}{}%
+\contentsline {subsection}{\numberline {3.2}timer555}{7}{}%
+\contentsline {section}{\numberline {4}TTL, ECL i CMOS}{8}{}%
+\contentsline {section}{\numberline {5}Moderni procesor}{11}{}%
